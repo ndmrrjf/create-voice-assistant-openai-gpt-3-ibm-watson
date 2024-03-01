@@ -15,10 +15,10 @@ Mentee assignment from IBM Advance AI @ Infinte Learning course completion of bu
 ##   🛠 Project Involves
 
 *  **Speech-to-text conversion**: Converting spoken input into text
-*  **Text processing**:: Sending the text to OpenAI's GPT-3 model for processing.
+*  **Text processing**: Sending the text to OpenAI's GPT-3 model for processing.
 *  **Text-to-speech conversion**: Converting the processed text back into speech.
 *  **User interaction**: A responsive front-end built with HTML, CSS, and Javascript.
-*  **:Server-side logic**:: A reliable back-end built using Flask.
+*  **Server-side logic**: A reliable back-end built using Flask.
 
 ## ✍️Learning Objectives
 
